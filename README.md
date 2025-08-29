@@ -3,4 +3,5 @@ Esta repositorio da acceso directo a la memoria, presentación y rutinas de mi T
 
 # Rutinas 
 Técnicas de regresión: https://www.kaggle.com/code/juanmahure/t-cnicas-selectas-de-regresi-n/edit
+
 Técnicas de clasificación: https://www.kaggle.com/code/juanmahure/t-cnicas-selectas-de-clasificaci-n/edit
